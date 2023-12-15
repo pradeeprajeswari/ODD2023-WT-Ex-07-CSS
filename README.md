@@ -78,6 +78,17 @@ Close the HTML structure.
   </html>
   ```
 # OUTPUT:7(i):
+
+![ex-1-1](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/e78b3d5f-8468-47ad-9de2-51892288f167)
+
+![ex-1-2](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/7416a02a-bf5c-46b4-abcd-8ed5997b1493)
+
+
+![ex-1-3](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/4ddd2e88-1481-4272-bb05-84d5df7da153)
+
+
+
+
 # Ex-07(ii)-CSS
 # AIM
 To use a media query in CSS to apply different styles to a webpage for mobile devices (with widths less than 600px) and desktop devices (with widths greater than or equal to 600px) by providing an example CSS snippet to demonstrate your answer.
@@ -134,6 +145,10 @@ End the HTML document by closing all open tags.
   </html>
   ```
 # OUTPUT:7(ii):
+
+![ex-2-1](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/8caa5256-8d61-461d-b058-0aada5f244fc)
+
+![ex-2-2](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/0e549864-eed0-45af-8a92-9635756d2abb)
 
 
 # Ex-07(iii)-CSS Orientation-based Media Query
@@ -193,6 +208,10 @@ Open your HTML file in a web browser and change the orientation of your device t
   </html>
   ```
 # OUTPUT:7(iii):
+![ex-3-1](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/03ed43d7-31bb-4534-8843-ce60bbd6efab)
+
+![ex-3-2](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/884218ab-aef9-44c8-bc0e-c387acd78721)
+
 
 
 # Ex-07(iv)-CSS Responsive Typography
@@ -266,6 +285,11 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </html>
   ```
 # OUTPUT:7(iv):
+![ex-4-1](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/10580f3f-6e74-415a-8ea9-502e7d392483)
+
+![ex-5-2](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/1a386c79-01cd-47ee-9065-3cb658bc3cf6)
+
+![ex-6-1,ex-5-1](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/291a9a99-4b0d-4edf-80f7-888f6a41c5eb)
 
 
 # Ex-07(v)-Print-friendly CSS
@@ -333,6 +357,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </html>
   ```
 # OUTPUT:7(v):
+![ex-6-1,ex-5-1](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/0d3bd42e-8d64-42ee-856a-a8172d5bcd8b)
+
+![ex-4-1](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/11b0d5c5-0159-423f-8268-803005ce0b4d)
 
 
 # Ex-07(vi)-Dark Mode Implementation
@@ -397,3 +424,11 @@ Remember to test your website in both light and dark modes to ensure the colors 
   </html>
   ```
 # OUTPUT:7(vi):
+
+![ex-4-1](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/a8c48d8f-59cb-41e4-a128-2eedc4703b39)
+
+![ex-6-2](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-07-CSS/assets/145743112/bfa13834-9824-4061-ae80-faed96e71cdd)
+
+
+
+
